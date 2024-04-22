@@ -1,0 +1,9 @@
+.Header h3 {
+  font-size: 1.5rem;
+}
+
+.Header p {
+  font-size: 1.75rem;
+  font-weight: 600;
+  color: rgb(37, 147, 250);
+}

@@ -1,0 +1,28 @@
+.List {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.List h3 {
+  font-size: 1.5rem;
+}
+
+.List input[type="text"] {
+  width: 100%;
+  padding: 15px 0;
+  border: none;
+  border-bottom: 1px solid rgb(220, 220, 220);
+  outline: none;
+}
+
+.List input:focus {
+  outline: none;
+  border-bottom: 1px solid rgb(37, 147, 250);
+}
+
+.todoitem-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
